@@ -1,0 +1,30 @@
+[
+  {
+    "id": "codementor",
+    "title": "CodeMentor",
+    "description": "AI-powered interactive tutor for Java programming. Built with Next.js and integrated AI APIs for personalized learning.",
+    "image": "https://picsum.photos/600/280?random=1",
+    "tech": ["Next.js", "AI APIs", "Database"],
+    "category": "fullstack",
+    "status": "completed"
+  },
+  {
+    "id": "case-study",
+    "title": "Case Study Project",
+    "description": "Ongoing case study and full-stack application. In active development.",
+    "image": "https://picsum.photos/600/280?random=3",
+    "tech": ["Next.js", "TypeScript", "Tailwind"],
+    "liveUrl": "https://case-study-bice.vercel.app/",
+    "category": "fullstack",
+    "status": "in-progress"
+  },
+  {
+    "id": "attendance-systems",
+    "title": "Attendance / Web Systems Projects",
+    "description": "Full-stack web systems with authentication, database integration, and responsive dashboards for internal use.",
+    "image": "https://picsum.photos/600/280?random=2",
+    "tech": ["React", "Next.js", "Laravel"],
+    "category": "fullstack",
+    "status": "completed"
+  }
+]
