@@ -115,7 +115,7 @@ Portfolio/
 ## Customization
 
 - **Content:** Edit `src/data/portfolio.ts` for name, role, summary, projects, skills, experience, and contact info.
-- **Resume:** Place your PDF at `public/resume.pdf` so the “Download Resume” link works.
+- **Resume:** Place your PDF at `public/Resume.pdf` so the “Download Resume” link works.
 - **Contact form:** The form currently uses a mock submit. To send real emails, integrate [EmailJS](https://www.emailjs.com/) or a Next.js server action with your email provider.
 
 ## License

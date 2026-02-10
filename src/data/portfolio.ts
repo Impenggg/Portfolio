@@ -7,7 +7,7 @@ export const siteConfig = {
   phone: '09497939859',
   facebookUrl: 'https://www.facebook.com/share/18CmRo1Yvh/',
   linkedinUrl: 'https://www.linkedin.com/in/garcia-adrian-john-c-5673a93aa?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app',
-  resumeUrl: '/resume.pdf',
+  resumeUrl: '/Resume.pdf',
   school: 'Pamantasan ng Cabuyao',
   aboutParagraphs: [
     'I am a Computer Science graduate from Pamantasan ng Cabuyao with a strong passion for full-stack development.',
