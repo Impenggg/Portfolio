@@ -88,13 +88,6 @@ export function Navbar() {
                 </svg>
               )}
             </button>
-            <Link
-              href={siteConfig.resumeUrl}
-              download
-              className="text-sm font-medium px-4 py-2 rounded-lg bg-primary-600 text-white hover:bg-primary-700 dark:bg-primary-500 dark:hover:bg-primary-600 transition-colors"
-            >
-              Resume
-            </Link>
           </div>
 
           {/* Mobile: burger left, theme right */}
@@ -178,14 +171,6 @@ export function Navbar() {
                       {link.label}
                     </Link>
                   ))}
-                  <Link
-                    href={siteConfig.resumeUrl}
-                    download
-                    onClick={() => setMobileOpen(false)}
-                    className="mt-4 py-3 text-center rounded-lg bg-primary-600 text-white font-medium hover:bg-primary-700 dark:bg-primary-500 dark:hover:bg-primary-600 transition-colors"
-                  >
-                    Download Resume
-                  </Link>
                 </div>
               </motion.div>
             </>
